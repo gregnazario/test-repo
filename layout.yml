@@ -1,0 +1,7 @@
+---
+root_key: "0xca3579457555c80fc7bb39964eb298c414fd60f81a2f8eedb0244ec07a26e575"
+users:
+  - "1"
+  - "2"
+chain_id: 5
+modules_dir: framework
