@@ -1,0 +1,11 @@
+---
+name: "1"
+consensus_key: "0xd8cab5b801627c71d4f451a36de982f745463168ef5dde34e32ee80034d92da0"
+account_key: "0x55d4abb07bf04ee60a45f72af17a64695510e7bc783162ded82658a42a4e5d1a"
+network_key: "0xa026cedcc3f38a3ad504713c10cbd4cf4811376fbac3a263901248830e692d60"
+validator_host:
+  host: 127.0.0.1
+  port: 1337
+full_node_host:
+  host: example.com
+  port: 9090
